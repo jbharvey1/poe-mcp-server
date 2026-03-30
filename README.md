@@ -1,5 +1,7 @@
 # poe-mcp-server
 
+[![Follow on X](https://img.shields.io/badge/follow-%40boschzilla-black.svg?logo=x)](https://x.com/boschzilla)
+
 A collection of MCP (Model Context Protocol) servers that expose Path of Exile game data, pricing, trade, stash management, character inspection, item filtering, and market analytics as tool-callable endpoints. Designed to be used by AI assistants (Claude, etc.) for PoE build planning, economy tracking, and in-game automation.
 
 ---
